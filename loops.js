@@ -14,7 +14,7 @@ function forLoop (array) {
 //   return ('done');
 // }
 
-function doWhileLoop (array) {
+function whileLoop (array) {
   do {
     array.pop();
   } while (array.length > 0);
