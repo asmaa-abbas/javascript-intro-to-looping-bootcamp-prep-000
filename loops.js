@@ -10,5 +10,5 @@ function whileLoop (n) {
   while(n > 0){
     --n;
   }
-  console.log('done');
+  return ('done');
 }
